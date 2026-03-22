@@ -1,0 +1,930 @@
+[
+  {
+    "frame_idx": 0,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      141,
+      72,
+      510,
+      385
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.8499711751937866
+  },
+  {
+    "frame_idx": 1,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      142,
+      72,
+      510,
+      384
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8499711751937866
+  },
+  {
+    "frame_idx": 2,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      145,
+      70,
+      512,
+      382
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8499711751937866
+  },
+  {
+    "frame_idx": 3,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      149,
+      69,
+      514,
+      381
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8499711751937866
+  },
+  {
+    "frame_idx": 4,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      152,
+      67,
+      517,
+      379
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8499711751937866
+  },
+  {
+    "frame_idx": 5,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      156,
+      66,
+      521,
+      377
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 6,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      160,
+      65,
+      524,
+      376
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 7,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      164,
+      66,
+      527,
+      376
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 8,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      168,
+      66,
+      530,
+      376
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 9,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      170,
+      66,
+      532,
+      377
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 10,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      171,
+      67,
+      534,
+      378
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 11,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      173,
+      67,
+      536,
+      379
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 12,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      175,
+      69,
+      538,
+      381
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 13,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      175,
+      72,
+      539,
+      383
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 14,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      177,
+      76,
+      540,
+      387
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 15,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      179,
+      81,
+      541,
+      392
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 16,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      176,
+      88,
+      540,
+      399
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 17,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      173,
+      94,
+      538,
+      405
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 18,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      171,
+      98,
+      537,
+      410
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 19,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      168,
+      100,
+      537,
+      412
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 20,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      166,
+      102,
+      536,
+      414
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 21,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      166,
+      102,
+      535,
+      414
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 22,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      164,
+      103,
+      532,
+      414
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 23,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      163,
+      103,
+      530,
+      414
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 24,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      161,
+      104,
+      527,
+      414
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8749346137046814
+  },
+  {
+    "frame_idx": 25,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      159,
+      103,
+      523,
+      415
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 26,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      156,
+      102,
+      520,
+      418
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 27,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      153,
+      101,
+      518,
+      422
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 28,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      151,
+      100,
+      516,
+      420
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 29,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      148,
+      99,
+      515,
+      419
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 30,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      146,
+      99,
+      515,
+      419
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 31,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      148,
+      99,
+      514,
+      418
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 32,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      151,
+      99,
+      513,
+      417
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 33,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      154,
+      100,
+      513,
+      418
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 34,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      155,
+      100,
+      512,
+      416
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8469578623771667
+  },
+  {
+    "frame_idx": 35,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      156,
+      100,
+      511,
+      415
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 36,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      152,
+      100,
+      511,
+      420
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 37,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      151,
+      99,
+      512,
+      422
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 38,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      149,
+      99,
+      512,
+      423
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 39,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      141,
+      99,
+      513,
+      426
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 40,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      138,
+      98,
+      514,
+      428
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 41,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      137,
+      98,
+      514,
+      428
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 42,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      139,
+      98,
+      514,
+      427
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 43,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      140,
+      97,
+      514,
+      426
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 44,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      142,
+      96,
+      514,
+      425
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8187368512153625
+  },
+  {
+    "frame_idx": 45,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      143,
+      95,
+      515,
+      423
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 46,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      138,
+      93,
+      515,
+      423
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 47,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      138,
+      91,
+      514,
+      422
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 48,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      138,
+      89,
+      513,
+      421
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 49,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      137,
+      88,
+      512,
+      420
+    ],
+    "source_prompt": "swan . bird . black swan",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  }
+]

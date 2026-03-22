@@ -1,0 +1,25 @@
+{
+  "mode": "grounded_sam2",
+  "input_mode": "sequence_to_video",
+  "input_path": "data/raw/davis/DAVIS/JPEGImages/480p/dogs-scale",
+  "input_video_path": "gpu_runner/outputs/dogs-scale_grounded_sam2_job/input_video.mp4",
+  "prompt_text": "dog=dog,dogs",
+  "prompt_groups": [
+    {
+      "name": "dog",
+      "prompts": [
+        "dog",
+        "dogs"
+      ]
+    }
+  ],
+  "flat_prompts": [
+    "dog",
+    "dogs"
+  ],
+  "flat_prompt_text": "dog . dogs",
+  "frame_count": 83,
+  "width": 854,
+  "height": 480,
+  "out_dir": "gpu_runner/outputs/dogs-scale_grounded_sam2_job"
+}

@@ -1,0 +1,1172 @@
+[
+  {
+    "frame_idx": 0,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      262,
+      86,
+      706,
+      428
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 1,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      258,
+      85,
+      705,
+      430
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 2,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      253,
+      86,
+      701,
+      431
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 3,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      247,
+      87,
+      698,
+      433
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 4,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      243,
+      87,
+      696,
+      434
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 5,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      239,
+      88,
+      693,
+      435
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 6,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      235,
+      90,
+      692,
+      436
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 7,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      231,
+      94,
+      689,
+      438
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 8,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      227,
+      96,
+      686,
+      439
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 9,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      224,
+      100,
+      682,
+      441
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 10,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      222,
+      103,
+      679,
+      442
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 11,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      221,
+      105,
+      677,
+      444
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 12,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      218,
+      106,
+      674,
+      445
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 13,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      215,
+      107,
+      671,
+      446
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 14,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      212,
+      108,
+      667,
+      446
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 15,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      208,
+      108,
+      663,
+      446
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 16,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      205,
+      107,
+      659,
+      446
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 17,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      202,
+      101,
+      655,
+      445
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 18,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      202,
+      103,
+      651,
+      444
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 19,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      206,
+      99,
+      647,
+      441
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 20,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      212,
+      95,
+      644,
+      437
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 21,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      221,
+      90,
+      640,
+      429
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 22,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      223,
+      86,
+      637,
+      426
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 23,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      227,
+      83,
+      633,
+      426
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 24,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      235,
+      81,
+      630,
+      424
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 25,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      247,
+      81,
+      628,
+      422
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 26,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      256,
+      82,
+      623,
+      423
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 27,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      271,
+      84,
+      621,
+      422
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 28,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      272,
+      83,
+      619,
+      422
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 29,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      270,
+      81,
+      614,
+      422
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 30,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      267,
+      80,
+      612,
+      423
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 31,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      265,
+      80,
+      608,
+      425
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 32,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      263,
+      81,
+      605,
+      427
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 33,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      261,
+      83,
+      603,
+      430
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 34,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      259,
+      86,
+      602,
+      432
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 35,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      258,
+      90,
+      602,
+      435
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 36,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      258,
+      94,
+      602,
+      437
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 37,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      258,
+      98,
+      602,
+      439
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 38,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      259,
+      102,
+      601,
+      441
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 39,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      260,
+      105,
+      600,
+      442
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 40,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      261,
+      107,
+      598,
+      443
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 41,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      262,
+      107,
+      596,
+      445
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 42,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      264,
+      105,
+      593,
+      445
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 43,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      263,
+      103,
+      591,
+      445
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 44,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      261,
+      100,
+      589,
+      444
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 45,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      259,
+      99,
+      587,
+      444
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 46,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      258,
+      98,
+      585,
+      444
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 47,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      259,
+      97,
+      582,
+      443
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 48,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      260,
+      97,
+      579,
+      442
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 49,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      265,
+      99,
+      577,
+      438
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 50,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      274,
+      100,
+      573,
+      436
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 51,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      285,
+      99,
+      571,
+      434
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 52,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      297,
+      98,
+      568,
+      432
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 53,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      308,
+      98,
+      566,
+      432
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 54,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      316,
+      98,
+      563,
+      432
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 55,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      324,
+      98,
+      561,
+      433
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 56,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      328,
+      98,
+      558,
+      434
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 57,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      330,
+      98,
+      556,
+      435
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 58,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      331,
+      100,
+      555,
+      437
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 59,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      332,
+      103,
+      554,
+      441
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 60,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      332,
+      107,
+      555,
+      444
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 61,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      332,
+      110,
+      554,
+      446
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 62,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      331,
+      112,
+      552,
+      447
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 63,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      330,
+      112,
+      550,
+      447
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 64,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      328,
+      113,
+      548,
+      447
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 65,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      327,
+      114,
+      545,
+      447
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 66,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      325,
+      116,
+      542,
+      447
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 67,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      323,
+      116,
+      539,
+      446
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 68,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      321,
+      116,
+      536,
+      446
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 69,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      320,
+      114,
+      533,
+      444
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 70,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      320,
+      111,
+      530,
+      443
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 71,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      321,
+      108,
+      528,
+      442
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 72,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      322,
+      106,
+      525,
+      441
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 73,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      323,
+      105,
+      522,
+      440
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 74,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      325,
+      104,
+      519,
+      439
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 75,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      324,
+      103,
+      517,
+      439
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 76,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      325,
+      103,
+      515,
+      438
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 77,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      328,
+      103,
+      513,
+      437
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 78,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      331,
+      103,
+      511,
+      436
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 79,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      333,
+      104,
+      509,
+      435
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 80,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      333,
+      104,
+      507,
+      432
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 81,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      334,
+      105,
+      505,
+      431
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 82,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      335,
+      106,
+      503,
+      431
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 83,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      336,
+      107,
+      502,
+      428
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 84,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      337,
+      107,
+      500,
+      425
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 85,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      339,
+      107,
+      498,
+      425
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 86,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      339,
+      107,
+      495,
+      426
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 87,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      338,
+      107,
+      493,
+      426
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 88,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      337,
+      107,
+      492,
+      425
+    ],
+    "source_prompt": "camel . animal"
+  },
+  {
+    "frame_idx": 89,
+    "track_id": "1",
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      336,
+      106,
+      489,
+      426
+    ],
+    "source_prompt": "camel . animal"
+  }
+]

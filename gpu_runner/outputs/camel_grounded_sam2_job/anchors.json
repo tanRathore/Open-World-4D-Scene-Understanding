@@ -1,0 +1,184 @@
+[
+  {
+    "frame_idx": 0,
+    "label": "camel",
+    "score": 0.804405927658081,
+    "box": [
+      257,
+      83,
+      710,
+      431
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 10,
+    "label": "camel",
+    "score": 0.8539127111434937,
+    "box": [
+      219,
+      99,
+      682,
+      444
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 20,
+    "label": "camel",
+    "score": 0.854884684085846,
+    "box": [
+      209,
+      91,
+      646,
+      439
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 30,
+    "label": "camel",
+    "score": 0.8019358515739441,
+    "box": [
+      265,
+      77,
+      615,
+      425
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 40,
+    "label": "camel",
+    "score": 0.7839884757995605,
+    "box": [
+      259,
+      105,
+      599,
+      445
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 40,
+    "label": "camel",
+    "score": 0.5520567893981934,
+    "box": [
+      262,
+      107,
+      353,
+      312
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 50,
+    "label": "camel",
+    "score": 0.7892336845397949,
+    "box": [
+      272,
+      97,
+      575,
+      437
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 50,
+    "label": "camel",
+    "score": 0.6783269047737122,
+    "box": [
+      227,
+      110,
+      316,
+      324
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 60,
+    "label": "camel",
+    "score": 0.7446563243865967,
+    "box": [
+      330,
+      104,
+      556,
+      445
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 60,
+    "label": "camel",
+    "score": 0.7106282711029053,
+    "box": [
+      194,
+      124,
+      293,
+      339
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 70,
+    "label": "camel",
+    "score": 0.7648916244506836,
+    "box": [
+      319,
+      109,
+      531,
+      444
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 70,
+    "label": "camel",
+    "score": 0.7049732804298401,
+    "box": [
+      164,
+      126,
+      264,
+      340
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 80,
+    "label": "camel",
+    "score": 0.7690802216529846,
+    "box": [
+      330,
+      102,
+      509,
+      435
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  },
+  {
+    "frame_idx": 80,
+    "label": "camel",
+    "score": 0.724090576171875,
+    "box": [
+      148,
+      122,
+      248,
+      337
+    ],
+    "source_prompt": "camel . animal",
+    "anchor": true
+  }
+]

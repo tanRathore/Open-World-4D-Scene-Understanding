@@ -1,0 +1,15 @@
+mode: grounded_sam2
+input_path: ""
+prompt_text: ""
+out_dir: "gpu_runner/outputs/run1"
+
+device: "cuda"
+hf_model_id: "IDEA-Research/grounding-dino-tiny"
+sam2_checkpoint: "/workspace/Grounded-SAM-2/sam2.1_hiera_large.pt"
+sam2_model_cfg: "configs/sam2.1/sam2.1_hiera_l.yaml"
+
+box_threshold: 0.4
+text_threshold: 0.3
+prompt_type_for_video: "box"
+ann_frame_idx: 0
+reground_stride: 10

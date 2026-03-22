@@ -1,0 +1,25 @@
+{
+  "mode": "grounded_sam2",
+  "input_mode": "sequence_to_video",
+  "input_path": "data/raw/davis/DAVIS/JPEGImages/480p/bear",
+  "input_video_path": "gpu_runner/outputs/bear_grounded_sam2_job/input_video.mp4",
+  "prompt_text": "bear=bear,animal",
+  "prompt_groups": [
+    {
+      "name": "bear",
+      "prompts": [
+        "bear",
+        "animal"
+      ]
+    }
+  ],
+  "flat_prompts": [
+    "bear",
+    "animal"
+  ],
+  "flat_prompt_text": "bear . animal",
+  "frame_count": 82,
+  "width": 854,
+  "height": 480,
+  "out_dir": "gpu_runner/outputs/bear_grounded_sam2_job"
+}

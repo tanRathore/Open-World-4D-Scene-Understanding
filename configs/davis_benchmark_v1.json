@@ -1,0 +1,25 @@
+{
+  "sequences": [
+    {
+      "name": "bear",
+      "input": "data/raw/davis/DAVIS/JPEGImages/480p/bear",
+      "text": "bear=bear",
+      "pred_path": "gpu_runner/outputs/bear_grounded_sam2_job/preds.json",
+      "anchor_path": "gpu_runner/outputs/bear_grounded_sam2_job/anchors.json"
+    },
+    {
+      "name": "camel",
+      "input": "data/raw/davis/DAVIS/JPEGImages/480p/camel",
+      "text": "camel=camel",
+      "pred_path": "gpu_runner/outputs/camel_grounded_sam2_job/preds.json",
+      "anchor_path": "gpu_runner/outputs/camel_grounded_sam2_job/anchors.json"
+    },
+    {
+      "name": "blackswan",
+      "input": "data/raw/davis/DAVIS/JPEGImages/480p/blackswan",
+      "text": "swan=swan,bird,black swan",
+      "pred_path": "gpu_runner/outputs/blackswan_grounded_sam2_job/preds.json",
+      "anchor_path": "gpu_runner/outputs/blackswan_grounded_sam2_job/anchors.json"
+    }
+  ]
+}

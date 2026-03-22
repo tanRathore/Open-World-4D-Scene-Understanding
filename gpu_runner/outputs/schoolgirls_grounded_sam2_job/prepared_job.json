@@ -1,0 +1,29 @@
+{
+  "mode": "grounded_sam2",
+  "input_mode": "sequence_to_video",
+  "input_path": "data/raw/davis/DAVIS/JPEGImages/480p/schoolgirls",
+  "input_video_path": "gpu_runner/outputs/schoolgirls_grounded_sam2_job/input_video.mp4",
+  "prompt_text": "person=person,people,student,schoolgirl",
+  "prompt_groups": [
+    {
+      "name": "person",
+      "prompts": [
+        "person",
+        "people",
+        "student",
+        "schoolgirl"
+      ]
+    }
+  ],
+  "flat_prompts": [
+    "person",
+    "people",
+    "student",
+    "schoolgirl"
+  ],
+  "flat_prompt_text": "person . people . student . schoolgirl",
+  "frame_count": 80,
+  "width": 854,
+  "height": 480,
+  "out_dir": "gpu_runner/outputs/schoolgirls_grounded_sam2_job"
+}

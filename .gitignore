@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+data/raw/*
+data/processed/*
+outputs/*
+!data/raw/.keep
+!data/processed/.keep
+!outputs/.keep

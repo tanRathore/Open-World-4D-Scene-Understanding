@@ -1,0 +1,1610 @@
+[
+  {
+    "frame_idx": 0,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      95,
+      214,
+      464,
+      434
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 1,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      95,
+      214,
+      463,
+      433
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 2,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      95,
+      215,
+      459,
+      432
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 3,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      94,
+      215,
+      455,
+      431
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 4,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      95,
+      215,
+      448,
+      429
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 0,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 5,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      96,
+      214,
+      439,
+      424
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 6,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      212,
+      431,
+      419
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 7,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      212,
+      426,
+      419
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 8,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      212,
+      424,
+      418
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 9,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      210,
+      425,
+      418
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 10,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      98,
+      210,
+      426,
+      418
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 11,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      98,
+      210,
+      427,
+      417
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 12,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      98,
+      210,
+      429,
+      417
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 13,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      99,
+      210,
+      431,
+      416
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 14,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      101,
+      212,
+      435,
+      416
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 10,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 15,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      102,
+      213,
+      439,
+      417
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 16,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      104,
+      213,
+      445,
+      418
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 17,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      107,
+      213,
+      449,
+      419
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 18,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      108,
+      214,
+      452,
+      420
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 19,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      108,
+      214,
+      456,
+      419
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 20,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      214,
+      458,
+      420
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 21,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      215,
+      459,
+      421
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 22,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      216,
+      461,
+      420
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 23,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      217,
+      463,
+      420
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 24,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      113,
+      218,
+      465,
+      419
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 20,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.894789457321167
+  },
+  {
+    "frame_idx": 25,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      219,
+      468,
+      421
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 26,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      219,
+      471,
+      429
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 27,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      220,
+      473,
+      438
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 28,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      221,
+      475,
+      445
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 29,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      222,
+      477,
+      452
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 30,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      222,
+      478,
+      456
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 31,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      223,
+      478,
+      462
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 32,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      224,
+      479,
+      466
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 33,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      224,
+      480,
+      469
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 34,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      226,
+      480,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 30,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 35,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      227,
+      481,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 36,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      228,
+      479,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 37,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      228,
+      477,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 38,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      228,
+      476,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 39,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      228,
+      475,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 40,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      228,
+      474,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 41,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      229,
+      472,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 42,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      230,
+      470,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 43,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      230,
+      468,
+      471
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 44,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      231,
+      466,
+      470
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 40,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9124361872673035
+  },
+  {
+    "frame_idx": 45,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      232,
+      463,
+      469
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 46,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      232,
+      461,
+      468
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 47,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      231,
+      460,
+      467
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 48,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      230,
+      459,
+      466
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 49,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      229,
+      458,
+      465
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 50,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      228,
+      458,
+      464
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 51,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      228,
+      456,
+      462
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 52,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      225,
+      454,
+      459
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 53,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      221,
+      452,
+      454
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 54,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      217,
+      450,
+      449
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 50,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9005298018455505
+  },
+  {
+    "frame_idx": 55,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      212,
+      447,
+      442
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 56,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      205,
+      444,
+      435
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 57,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      200,
+      442,
+      431
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 58,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      196,
+      442,
+      427
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 59,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      193,
+      441,
+      424
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 60,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      108,
+      191,
+      441,
+      422
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 61,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      190,
+      440,
+      419
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 62,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      188,
+      438,
+      418
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 63,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      186,
+      437,
+      415
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 64,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      183,
+      437,
+      411
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 60,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.8783142566680908
+  },
+  {
+    "frame_idx": 65,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      180,
+      436,
+      408
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 66,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      108,
+      176,
+      436,
+      405
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 67,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      106,
+      173,
+      436,
+      402
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 68,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      104,
+      171,
+      437,
+      400
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 69,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      102,
+      169,
+      437,
+      399
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 70,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      102,
+      167,
+      438,
+      398
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 71,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      101,
+      167,
+      437,
+      397
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 72,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      100,
+      166,
+      437,
+      396
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 73,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      99,
+      166,
+      437,
+      395
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 74,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      98,
+      165,
+      437,
+      394
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 70,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.9161096215248108
+  },
+  {
+    "frame_idx": 75,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      164,
+      437,
+      391
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": false
+  },
+  {
+    "frame_idx": 76,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      94,
+      162,
+      437,
+      390
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 80,
+    "anchor_dist": 4,
+    "anchor_weight": 0.09999999999999998,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 77,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      92,
+      159,
+      438,
+      387
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 80,
+    "anchor_dist": 3,
+    "anchor_weight": 0.2,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 78,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      32,
+      159,
+      554,
+      387
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 80,
+    "anchor_dist": 2,
+    "anchor_weight": 0.3,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 79,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      69,
+      157,
+      477,
+      387
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 80,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 80,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      82,
+      155,
+      451,
+      388
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 80,
+    "anchor_dist": 0,
+    "anchor_weight": 0.5,
+    "anchor_score": 0.917302668094635
+  },
+  {
+    "frame_idx": 81,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      85,
+      154,
+      444,
+      390
+    ],
+    "source_prompt": "bear . animal",
+    "stabilized": true,
+    "gap_filled": false,
+    "anchor_window_fused": true,
+    "anchor_frame_idx": 80,
+    "anchor_dist": 1,
+    "anchor_weight": 0.4,
+    "anchor_score": 0.917302668094635
+  }
+]

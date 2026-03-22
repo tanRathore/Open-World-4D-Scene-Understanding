@@ -1,0 +1,6 @@
+{
+  "mode": "grounded_sam2",
+  "input_path": "data/raw/davis/DAVIS/JPEGImages/480p/bear",
+  "prompt_text": "bear=bear,animal",
+  "pred_path": "gpu_runner/outputs/bear_job/preds.json"
+}

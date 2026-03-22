@@ -1,0 +1,25 @@
+{
+  "mode": "grounded_sam2",
+  "input_mode": "sequence_to_video",
+  "input_path": "data/raw/davis/DAVIS/JPEGImages/480p/camel",
+  "input_video_path": "gpu_runner/outputs/camel_grounded_sam2_job/input_video.mp4",
+  "prompt_text": "camel=camel,animal",
+  "prompt_groups": [
+    {
+      "name": "camel",
+      "prompts": [
+        "camel",
+        "animal"
+      ]
+    }
+  ],
+  "flat_prompts": [
+    "camel",
+    "animal"
+  ],
+  "flat_prompt_text": "camel . animal",
+  "frame_count": 90,
+  "width": 854,
+  "height": 480,
+  "out_dir": "gpu_runner/outputs/camel_grounded_sam2_job"
+}

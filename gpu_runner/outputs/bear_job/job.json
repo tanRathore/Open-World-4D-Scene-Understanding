@@ -1,0 +1,9 @@
+{
+  "mode": "grounded_sam2",
+  "input_path": "data/raw/davis/DAVIS/JPEGImages/480p/bear",
+  "prompt_text": "bear=bear,animal",
+  "out_dir": "gpu_runner/outputs/bear_job",
+  "box_threshold": 0.25,
+  "text_threshold": 0.2,
+  "device": "cuda"
+}

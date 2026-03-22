@@ -1,0 +1,1068 @@
+[
+  {
+    "frame_idx": 0,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      96,
+      215,
+      462,
+      433
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 1,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      95,
+      215,
+      460,
+      432
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 2,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      95,
+      216,
+      455,
+      431
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 3,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      94,
+      216,
+      450,
+      430
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 4,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      95,
+      215,
+      442,
+      427
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 5,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      96,
+      214,
+      434,
+      421
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 6,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      213,
+      426,
+      416
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 7,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      213,
+      422,
+      418
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 8,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      213,
+      421,
+      416
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 9,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      212,
+      423,
+      416
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 10,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      98,
+      211,
+      426,
+      416
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 11,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      98,
+      211,
+      428,
+      415
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 12,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      99,
+      211,
+      431,
+      415
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 13,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      100,
+      211,
+      434,
+      415
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 14,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      102,
+      212,
+      438,
+      416
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 15,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      103,
+      213,
+      441,
+      417
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 16,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      105,
+      213,
+      445,
+      418
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 17,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      107,
+      213,
+      448,
+      418
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 18,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      108,
+      214,
+      451,
+      419
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 19,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      214,
+      455,
+      416
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 20,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      215,
+      458,
+      419
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 21,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      216,
+      461,
+      419
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 22,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      217,
+      464,
+      419
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 23,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      113,
+      218,
+      466,
+      419
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 24,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      113,
+      218,
+      468,
+      419
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 25,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      219,
+      469,
+      423
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 26,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      219,
+      471,
+      430
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 27,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      220,
+      473,
+      436
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 28,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      221,
+      475,
+      444
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 29,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      223,
+      477,
+      451
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 30,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      224,
+      478,
+      458
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 31,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      224,
+      479,
+      469
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 32,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      225,
+      480,
+      472
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 33,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      225,
+      480,
+      473
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 34,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      226,
+      480,
+      472
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 35,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      227,
+      481,
+      471
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 36,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      228,
+      479,
+      471
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 37,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      228,
+      477,
+      471
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 38,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      229,
+      477,
+      471
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 39,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      229,
+      474,
+      470
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 40,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      229,
+      471,
+      470
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 41,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      230,
+      469,
+      471
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 42,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      231,
+      467,
+      471
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 43,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      231,
+      465,
+      471
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 44,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      231,
+      463,
+      470
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 45,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      232,
+      461,
+      469
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 46,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      232,
+      460,
+      468
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 47,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      232,
+      459,
+      468
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 48,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      232,
+      458,
+      467
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 49,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      231,
+      457,
+      466
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 50,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      230,
+      456,
+      463
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 51,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      227,
+      454,
+      459
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 52,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      222,
+      452,
+      454
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 53,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      218,
+      449,
+      449
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 54,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      213,
+      447,
+      443
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 55,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      209,
+      445,
+      438
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 56,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      204,
+      442,
+      434
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 57,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      201,
+      441,
+      430
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 58,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      197,
+      442,
+      426
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 59,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      194,
+      440,
+      424
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 60,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      191,
+      439,
+      420
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 61,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      110,
+      188,
+      437,
+      416
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 62,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      185,
+      436,
+      414
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 63,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      112,
+      183,
+      435,
+      411
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 64,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      111,
+      180,
+      436,
+      408
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 65,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      109,
+      178,
+      436,
+      406
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 66,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      108,
+      175,
+      436,
+      404
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 67,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      106,
+      173,
+      436,
+      401
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 68,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      105,
+      171,
+      437,
+      400
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 69,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      103,
+      170,
+      437,
+      398
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 70,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      102,
+      168,
+      437,
+      397
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 71,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      101,
+      167,
+      436,
+      395
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 72,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      99,
+      166,
+      437,
+      394
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 73,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      98,
+      165,
+      437,
+      393
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 74,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      97,
+      164,
+      437,
+      392
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 75,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      96,
+      163,
+      437,
+      390
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 76,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      94,
+      162,
+      437,
+      389
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 77,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      92,
+      160,
+      438,
+      385
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 78,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      91,
+      159,
+      853,
+      384
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 79,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      90,
+      157,
+      437,
+      384
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 80,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      89,
+      156,
+      437,
+      386
+    ],
+    "source_prompt": "bear . animal"
+  },
+  {
+    "frame_idx": 81,
+    "track_id": "1",
+    "label": "bear",
+    "score": 0.917302668094635,
+    "box": [
+      88,
+      153,
+      437,
+      393
+    ],
+    "source_prompt": "bear . animal"
+  }
+]

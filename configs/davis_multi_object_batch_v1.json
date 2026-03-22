@@ -1,0 +1,36 @@
+{
+  "sequences": [
+    {
+      "name": "cows",
+      "text": "cow=cow,cattle"
+    },
+    {
+      "name": "crossing",
+      "text": "person=person,pedestrian,people"
+    },
+    {
+      "name": "dog-gooses",
+      "text": "dog=dog,dogs;goose=goose,geese,bird"
+    },
+    {
+      "name": "dogs-jump",
+      "text": "dog=dog,dogs"
+    },
+    {
+      "name": "dogs-scale",
+      "text": "dog=dog,dogs"
+    },
+    {
+      "name": "pigs",
+      "text": "pig=pig,pigs"
+    },
+    {
+      "name": "schoolgirls",
+      "text": "person=person,people,student,schoolgirl"
+    },
+    {
+      "name": "sheep",
+      "text": "sheep=sheep"
+    }
+  ]
+}

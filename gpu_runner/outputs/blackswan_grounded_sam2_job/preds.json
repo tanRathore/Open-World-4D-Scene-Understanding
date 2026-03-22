@@ -1,0 +1,652 @@
+[
+  {
+    "frame_idx": 0,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      143,
+      73,
+      509,
+      383
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 1,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      145,
+      71,
+      511,
+      381
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 2,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      149,
+      69,
+      514,
+      379
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 3,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      154,
+      67,
+      517,
+      378
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 4,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      156,
+      66,
+      520,
+      377
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 5,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      158,
+      66,
+      523,
+      376
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 6,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      163,
+      65,
+      526,
+      376
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 7,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      167,
+      66,
+      529,
+      376
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 8,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      170,
+      66,
+      532,
+      376
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 9,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      172,
+      66,
+      534,
+      377
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 10,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      172,
+      67,
+      535,
+      378
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 11,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      174,
+      67,
+      537,
+      379
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 12,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      177,
+      71,
+      539,
+      382
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 13,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      175,
+      74,
+      540,
+      385
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 14,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      178,
+      79,
+      541,
+      390
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 15,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      180,
+      84,
+      541,
+      396
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 16,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      178,
+      91,
+      540,
+      401
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 17,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      175,
+      96,
+      539,
+      405
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 18,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      174,
+      100,
+      537,
+      410
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 19,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      172,
+      102,
+      536,
+      411
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 20,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      169,
+      103,
+      534,
+      413
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 21,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      169,
+      104,
+      533,
+      412
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 22,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      162,
+      104,
+      529,
+      413
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 23,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      161,
+      104,
+      526,
+      413
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 24,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      159,
+      104,
+      524,
+      414
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 25,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      158,
+      103,
+      521,
+      416
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 26,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      157,
+      103,
+      518,
+      420
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 27,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      154,
+      102,
+      517,
+      424
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 28,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      156,
+      101,
+      515,
+      418
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 29,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      153,
+      100,
+      514,
+      419
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 30,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      151,
+      100,
+      513,
+      417
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 31,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      155,
+      99,
+      512,
+      417
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 32,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      157,
+      99,
+      512,
+      416
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 33,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      157,
+      100,
+      512,
+      418
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 34,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      157,
+      100,
+      511,
+      415
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 35,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      156,
+      100,
+      511,
+      415
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 36,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      153,
+      100,
+      511,
+      421
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 37,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      155,
+      100,
+      511,
+      421
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 38,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      157,
+      100,
+      511,
+      420
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 39,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      140,
+      100,
+      512,
+      426
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 40,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      140,
+      100,
+      512,
+      426
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 41,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      139,
+      99,
+      513,
+      426
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 42,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      141,
+      98,
+      513,
+      426
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 43,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      143,
+      97,
+      514,
+      425
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 44,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      143,
+      96,
+      514,
+      423
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 45,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      143,
+      94,
+      515,
+      422
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 46,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      135,
+      91,
+      515,
+      423
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 47,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      138,
+      89,
+      514,
+      422
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 48,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      138,
+      88,
+      513,
+      420
+    ],
+    "source_prompt": "swan . bird . black swan"
+  },
+  {
+    "frame_idx": 49,
+    "track_id": "1",
+    "label": "swan",
+    "score": 0.8499711751937866,
+    "box": [
+      136,
+      87,
+      511,
+      420
+    ],
+    "source_prompt": "swan . bird . black swan"
+  }
+]

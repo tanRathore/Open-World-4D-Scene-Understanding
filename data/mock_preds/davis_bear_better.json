@@ -1,0 +1,11 @@
+[
+  {"frame_idx": 0,  "track_id": "bear_1", "label": "bear", "score": 0.93, "box": [170, 120, 590, 430], "source_prompt": "bear"},
+  {"frame_idx": 10, "track_id": "bear_1", "label": "bear", "score": 0.94, "box": [180, 118, 600, 428], "source_prompt": "bear"},
+  {"frame_idx": 20, "track_id": "bear_1", "label": "bear", "score": 0.94, "box": [192, 115, 612, 426], "source_prompt": "bear"},
+  {"frame_idx": 30, "track_id": "bear_1", "label": "bear", "score": 0.92, "box": [205, 112, 624, 424], "source_prompt": "bear"},
+  {"frame_idx": 40, "track_id": "bear_1", "label": "bear", "score": 0.93, "box": [218, 110, 637, 422], "source_prompt": "bear"},
+  {"frame_idx": 50, "track_id": "bear_1", "label": "bear", "score": 0.91, "box": [230, 108, 650, 420], "source_prompt": "bear"},
+  {"frame_idx": 60, "track_id": "bear_1", "label": "bear", "score": 0.92, "box": [242, 106, 662, 418], "source_prompt": "bear"},
+  {"frame_idx": 70, "track_id": "bear_1", "label": "bear", "score": 0.90, "box": [254, 104, 674, 416], "source_prompt": "bear"},
+  {"frame_idx": 80, "track_id": "bear_1", "label": "bear", "score": 0.89, "box": [266, 102, 686, 414], "source_prompt": "bear"}
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "frame_idx": 0,
+    "objects": [
+      {
+        "track_id": "bear_1",
+        "label": "bear",
+        "score": 0.95,
+        "box": [170, 120, 590, 430],
+        "source_prompt": "bear"
+      }
+    ]
+  },
+  {
+    "frame_idx": 10,
+    "objects": [
+      {
+        "track_id": "bear_1",
+        "label": "bear",
+        "score": 0.94,
+        "box": [181, 118, 602, 429],
+        "source_prompt": "bear"
+      }
+    ]
+  },
+  {
+    "frame_idx": 20,
+    "objects": [
+      {
+        "track_id": "bear_1",
+        "label": "bear",
+        "score": 0.94,
+        "box": [193, 116, 614, 427],
+        "source_prompt": "bear"
+      }
+    ]
+  },
+  {
+    "frame_idx": 30,
+    "objects": [
+      {
+        "track_id": "bear_1",
+        "label": "bear",
+        "score": 0.93,
+        "box": [205, 114, 626, 425],
+        "source_prompt": "bear"
+      }
+    ]
+  },
+  {
+    "frame_idx": 40,
+    "objects": [
+      {
+        "track_id": "bear_1",
+        "label": "bear",
+        "score": 0.92,
+        "box": [217, 112, 638, 423],
+        "source_prompt": "bear"
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "mode": "grounded_sam2",
+  "input_mode": "sequence_to_video",
+  "input_path": "data/raw/davis/DAVIS/JPEGImages/480p/cows",
+  "input_video_path": "gpu_runner/outputs/cows_grounded_sam2_job/input_video.mp4",
+  "prompt_text": "cow=cow,cattle",
+  "prompt_groups": [
+    {
+      "name": "cow",
+      "prompts": [
+        "cow",
+        "cattle"
+      ]
+    }
+  ],
+  "flat_prompts": [
+    "cow",
+    "cattle"
+  ],
+  "flat_prompt_text": "cow . cattle",
+  "frame_count": 104,
+  "width": 854,
+  "height": 480,
+  "out_dir": "gpu_runner/outputs/cows_grounded_sam2_job"
+}

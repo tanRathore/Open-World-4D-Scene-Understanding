@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ow4d"
+version = "0.1.0"
+description = "open world video tracking"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "opencv-python",
+  "pyyaml",
+  "networkx",
+  "pandas",
+  "tqdm"
+]
+
+[tool.setuptools.packages.find]
+include = ["ow4d*"]

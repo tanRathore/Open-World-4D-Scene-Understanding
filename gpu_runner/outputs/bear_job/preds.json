@@ -1,0 +1,41 @@
+[
+  {
+    "frame_idx": 0,
+    "track_id": "obj_1",
+    "label": "object",
+    "score": 0.9,
+    "box": [
+      120,
+      80,
+      380,
+      300
+    ],
+    "source_prompt": "object"
+  },
+  {
+    "frame_idx": 1,
+    "track_id": "obj_1",
+    "label": "object",
+    "score": 0.91,
+    "box": [
+      125,
+      82,
+      384,
+      302
+    ],
+    "source_prompt": "object"
+  },
+  {
+    "frame_idx": 2,
+    "track_id": "obj_1",
+    "label": "object",
+    "score": 0.92,
+    "box": [
+      130,
+      84,
+      388,
+      304
+    ],
+    "source_prompt": "object"
+  }
+]
