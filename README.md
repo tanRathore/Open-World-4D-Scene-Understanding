@@ -1,6 +1,6 @@
 # Toward Open-World 4D Scene Understanding  
 ### Stabilized Video Tracking with 3D Lifting and Temporal Scene Graphs  
-*(ongoing research-engineering project / work in progress)*
+*(work in progress)*
 
 This project explores how to move from noisy open-world video predictions toward structured 4D scene understanding.
 
